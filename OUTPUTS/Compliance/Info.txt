@@ -1,5 +1,5 @@
 SKU: 333160
 Full product name: Dual motor H-bridge DRV8424P driver breakout
 Country of origin: Croatia
-HS tariff code: 85030029
+HS tariff code: 85340090
 EAN/UPC barcode: 732388663606
